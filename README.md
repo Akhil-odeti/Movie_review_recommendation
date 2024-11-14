@@ -1,4 +1,4 @@
-**✨ Embedding-based Text Analysis and Sentiment Prediction ✨**
+## ✨ Movie review Recommendation ✨
 📝 Overview
 This project is a deep learning-based text processing application using TensorFlow and Keras. It processes movie reviews by embedding text data, analyzing word patterns, 
 and predicting sentiment. The model converts textual data into numerical embeddings, facilitating sentiment analysis and recommendation based on the embedded features.
